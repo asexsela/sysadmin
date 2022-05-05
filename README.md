@@ -29,12 +29,12 @@
 
     **Ответ**: Я не знаю почему tracerouter показывает звездочки
 
-![alt](https://github.com/asexsela/sysadmin/blob/master/five.png?raw=true)
+![alt](https://github.com/asexsela/sysadmin/blob/master/five_1.png?raw=true)
 
 
 6. Повторите задание 5 в утилите mtr. На каком участке наибольшая задержка - delay?
 
     **Ответ**: Наибольшая задержка на участке 9
 
-![alt](https://github.com/asexsela/sysadmin/blob/master/five_1.png?raw=true)
+![alt](https://github.com/asexsela/sysadmin/blob/master/five.png?raw=true)
         
