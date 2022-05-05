@@ -27,7 +27,7 @@
 
 5. Через какие сети проходит пакет, отправленный с вашего компьютера на адрес 8.8.8.8? Через какие AS? Воспользуйтесь утилитой `traceroute`
 
-    **Ответ**:
+    **Ответ**: Я не знаю почему tracerouter показывает звездочки
 
 ![alt](https://github.com/asexsela/sysadmin/blob/master/five.png?raw=true)
 ![alt](https://github.com/asexsela/sysadmin/blob/master/five_1.png?raw=true)
