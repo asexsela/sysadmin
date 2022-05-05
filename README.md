@@ -4,4 +4,4 @@
 Ответ: В ответе получил код 301, он означает запрашиваемый ресурс был перемещен на url указынный в заголовке Location
 В нашем случае это редирект на https
 
-![alt](https://github.com/asexsela/sysadmin/blob/master/image.jpg?raw=true)
+![alt](https://github.com/asexsela/sysadmin/blob/master/one.png?raw=true)
