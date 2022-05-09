@@ -37,4 +37,14 @@
     **Ответ**: Наибольшая задержка на участке 9
 
 ![alt](https://github.com/asexsela/sysadmin/blob/master/five.png?raw=true)
-        
+
+
+7. Какие DNS сервера отвечают за доменное имя dns.google? Какие A записи? воспользуйтесь утилитой dig
+    **Ответ** 
+
+    ![alt](https://github.com/asexsela/sysadmin/blob/master/seven.png?raw=true)
+
+8. Проверьте PTR записи для IP адресов из задания 7. Какое доменное имя привязано к IP? воспользуйтесь утилитой dig
+    **Ответ** Доменное имя dns.google
+
+    ![alt](https://github.com/asexsela/sysadmin/blob/master/eight.png?raw=true)
