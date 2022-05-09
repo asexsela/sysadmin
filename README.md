@@ -45,6 +45,7 @@
     ![alt](https://github.com/asexsela/sysadmin/blob/master/seven.png?raw=true)
 
 8. Проверьте PTR записи для IP адресов из задания 7. Какое доменное имя привязано к IP? воспользуйтесь утилитой dig
+
     **Ответ** Доменное имя dns.google
 
     ![alt](https://github.com/asexsela/sysadmin/blob/master/eight.png?raw=true)
